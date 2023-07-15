@@ -1,6 +1,6 @@
 # Linguistics Accents
 # Minor_project
-# AIADS Project
+### AIADS Project
 -Prof. Shailesh Shrivastav
 
 ## Group Details
@@ -53,20 +53,29 @@ Two more folders are present-
 - final3 - it has the HTML files for the pages
 - Assets - it stores static files such as CSS and javascript files.
   
- Project "Generative Audio / Linguistics Accents" is built on various technologies, including:
+ ### Project "Generative Audio / Linguistics Accents" is built on various technologies, including:
 
-Machine Learning (ML): The core of your project involves developing a generative model to create synthetic speech samples. Machine learning techniques will be used to train and optimize this model, enabling it to generate speech in different languages and dialects.
-Data Science: Data science plays a crucial role in your project, as it involves working with speech datasets to train the generative model. Data preprocessing, cleaning, and analysis are essential steps in preparing the data for the model.
+#### Machine Learning (ML):
+The core of your project involves developing a generative model to create synthetic speech samples. Machine learning techniques will be used to train and optimize this model, enabling it to generate speech in different languages and dialects.
+#### Data Science: 
+Data science plays a crucial role in your project, as it involves working with speech datasets to train the generative model. Data preprocessing, cleaning, and analysis are essential steps in preparing the data for the model.
 
-Software Development: To deploy and integrate the generative model into a user-friendly web application, software development skills are necessary. You will use technologies like HTML, CSS, JavaScript, and Bootstrap to build the web interface.
+#### Software Development: 
+To deploy and integrate the generative model into a user-friendly web application, software development skills are necessary. You will use technologies like HTML, CSS, JavaScript, and Bootstrap to build the web interface.
 
-Natural Language Processing (NLP): NLP techniques may be employed to enhance the model's ability to understand and generate speech samples in various languages and dialects.  
+#### Natural Language Processing (NLP):
+NLP techniques may be employed to enhance the model's ability to understand and generate speech samples in various languages and dialects.  
 
-HTML, CSS, JavaScript, and Bootstrap: These technologies will be used to create the web interface for the project.
-Hugging Face: This library will be used to deploy the generative model.
-Gradio: Gradio is a framework for building web interfaces for machine learning models. It will provide an interactive and accessible way for users to interact with your generative model.
-Google Text-to-Speech (GTTS): This library will be used to generate speech samples from the model.
-Google Translate: This library will be used to predict the native language of the speaker based on the accent.
+#### HTML, CSS, JavaScript, and Bootstrap:
+These technologies will be used to create the web interface for the project.
+#### Hugging Face: 
+This library will be used to deploy the generative model.
+#### Gradio: 
+Gradio is a framework for building web interfaces for machine learning models. It will provide an interactive and accessible way for users to interact with your generative model.
+#### Google Text-to-Speech (GTTS):
+This library will be used to generate speech samples from the model.
+#### Google Translate:
+This library will be used to predict the native language of the speaker based on the accent.
 
 
 ## How to Run 
