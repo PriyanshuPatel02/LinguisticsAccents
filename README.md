@@ -1,6 +1,6 @@
 # Linguistics Accents
 # Minor_project
-# AIADS Project Linguistics Accent
+# AIADS Project
 -Prof. Shailesh Shrivastav
 
 ## Group Details
