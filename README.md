@@ -74,4 +74,4 @@ Google Translate: This library will be used to predict the native language of th
 Go on the localhost web address which must have been printed on the terminal
 
 ## Demo run
-[Here](https://huggingface.co/spaces/priyanshu02/Linguistics_Accent)
+[Here](https://huggingface.co/spaces/priyanshu02/Generative-Audio)
