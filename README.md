@@ -26,6 +26,23 @@ Linguistic Accent is a web app where different language speaking peoples can hel
 
 This project will develop a generative model that can create synthetic speech samples for underrepresented languages and dialects. The model will be trained on a dataset of speech samples from a variety of languages and dialects. The generated samples will then be used to train and improve speech recognition models for these languages and dialects. This will help to promote linguistic diversity and reduce language barriers in speech technology.
 
+Our project, "Generative Audio/Linguistics Accents," aims to develop a generative model using HTML, CSS, JavaScript, and Bootstrap for the web interface. The model's deployment will be handled by Hugging Face. To achieve our objectives, we will use the GTTS (Google Text-to-Speech) and Translate libraries. Gradio will be integrated into the web interface for building the model. Here are the key points of our project:
+
+###### Objective: 
+Develop a generative model for creating synthetic speech samples of underrepresented languages and dialects.
+###### Target: 
+Generate speech samples in various languages and dialects, focusing on those lacking representation in existing speech datasets.
+###### Purpose:
+Improve speech recognition models for underrepresented languages, promoting linguistic diversity and reducing language barriers in speech technology.
+###### Accent Prediction:
+Predict the native language of English speakers based on their accent.
+###### Importance: The project contributes to language technology sustainability and preserves linguistic diversity.
+###### Inclusivity: The model will generate speech samples for a wide range of languages and dialects, not limited to a few select ones.
+###### Work and Position:
+
+As a team member in the "Generative Audio/Linguistics Accents" project, my role would be as a Machine Learning Engineer. I will be responsible for developing the generative model using Python, incorporating the GTTS and Translate libraries to handle speech synthesis and translation tasks. Additionally, I will integrate the model with Hugging Face for deployment on the web platform. Collaborating with frontend developers, I will also ensure a user-friendly interface using HTML, CSS, JavaScript, and Bootstrap. Furthermore, I will work closely with Gradio's functionalities to create an interactive web interface, enabling users to build and test the model with ease.
+Together with the team, we will address the objective of promoting linguistic diversity by generating synthetic speech samples for underrepresented languages and dialects. By leveraging this data to improve speech recognition models, our project will play a vital role in bridging language barriers and fostering sustainable language technology.
+
 ## Code Structure-
 
 This repository contains an implementation/LinguisticAccent folder which contains all the code for our web app.
