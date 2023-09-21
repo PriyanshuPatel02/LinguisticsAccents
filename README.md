@@ -100,4 +100,4 @@ This library will be used to predict the native language of the speaker based on
 Go on the localhost web address which must have been printed on the terminal
 
 ## Demo run
-[Here]((https://huggingface.co/spaces/priyanshu02/check-generative-audio))
+[Here](https://huggingface.co/spaces/priyanshu02/check-generative-audio)
